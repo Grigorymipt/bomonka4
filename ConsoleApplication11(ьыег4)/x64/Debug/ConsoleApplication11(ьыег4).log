@@ -1,0 +1,6 @@
+﻿  ConsoleApplication11(ьыег4).cpp
+C:\Users\onlyd\source\repos\ConsoleApplication11(ьыег4)\ConsoleApplication11(ьыег4)\Header.h(224,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\onlyd\source\repos\ConsoleApplication11(ьыег4)\ConsoleApplication11(ьыег4)\Header.h(221): message : while compiling class template member function 'std::istream &operator >>(std::istream &,Term<Polynom> &)'
+C:\Users\onlyd\source\repos\ConsoleApplication11(ьыег4)\ConsoleApplication11(ьыег4)\ConsoleApplication11(ьыег4).cpp(15): message : see reference to function template instantiation 'std::istream &operator >>(std::istream &,Term<Polynom> &)' being compiled
+C:\Users\onlyd\source\repos\ConsoleApplication11(ьыег4)\ConsoleApplication11(ьыег4)\Header.h(285): message : see reference to class template instantiation 'Term<Polynom>' being compiled
+  ConsoleApplication11(ьыег4).vcxproj -> C:\Users\onlyd\source\repos\ConsoleApplication11(ьыег4)\x64\Debug\ConsoleApplication11(mstu4).exe
